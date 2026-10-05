@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\vladi\source\repos\course-project-cloud-infrastructure\Source.c(8,10): warning C4876: неполный или недопустимый многобайтовый символ в строковом литерале. Используйте escape-последовательность для сохранения этих байтовых значений.
+C:\Users\vladi\source\repos\course-project-cloud-infrastructure\Source.c(9,10): warning C4876: неполный или недопустимый многобайтовый символ в строковом литерале. Используйте escape-последовательность для сохранения этих байтовых значений.
+C:\Users\vladi\source\repos\course-project-cloud-infrastructure\Source.c(10,10): warning C4876: неполный или недопустимый многобайтовый символ в строковом литерале. Используйте escape-последовательность для сохранения этих байтовых значений.
+C:\Users\vladi\source\repos\course-project-cloud-infrastructure\Source.c(12,5): warning C4098: main: функция типа "void", возвращающая значение
+  course-project-cloud-infrastructure.vcxproj -> C:\Users\vladi\source\repos\course-project-cloud-infrastructure\x64\Debug\course-project-cloud-infrastructure.exe
